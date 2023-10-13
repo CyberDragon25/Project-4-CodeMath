@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='./TipCalculator.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **Kap**
 
@@ -46,7 +46,7 @@ GIF created with **Kap**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+Here's a place for any other notes on the app, its creation process, or what you learned in this unit!
 
 ## License
 
