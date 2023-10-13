@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace 'edu.iastate.shubham8.project4_codemath'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "edu.iastate.shubham8.project4_codemath"
         minSdk 25
-        targetSdk 32
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 
