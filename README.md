@@ -46,7 +46,7 @@ GIF created with **Kap**
 
 ## Notes
 
-Here's a place for any other notes on the app, its creation process, or what you learned in this unit!
+This is a tip calculator app; I had actually made an app very similar to this a few years ago watching tutorials of a YouTuber named Rahul Pandey., who is also a great android developer, I decided to recreate this app but this time without watching any videos or taking any references online, overall I had a lot of fun making this app.
 
 ## License
 
